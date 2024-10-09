@@ -1,3 +1,6 @@
+
+pip install pdfplumber
+
 import os
 import pdfplumber
 from sentence_transformers import SentenceTransformer
