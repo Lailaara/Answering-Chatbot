@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+openai
+sentence-transformers
+faiss-cpu
+nltk
